@@ -31,8 +31,7 @@
 ## 📫 Contact Me
 
 - 📧 Mail: `bode.ahmad@gmail.com`
-- 💼 LinkedIn: [your-linkedin](https://linkedin.com/in/yourprofile)
-- 🌐 Portfolio: [your-website.com](https://your-website.com)
+
 
 ---
 
