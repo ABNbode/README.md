@@ -10,7 +10,7 @@
 
 - 🧠 **Currently learning:** `Python` & `Java`  
 - 🔍 **Interested in:** Backend development, APIs, automation  
-- 🤝 **Looking to collaborate on:** Exciting Python projects  
+- 🤝 **Looking to collaborate on:** Existing Python and Java projects  
 - 🛠️ **Tools I use:**  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
