@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-- 🧠 **Currently learning:** `Python` & `Django`  
+- 🧠 **Currently learning:** `Python` & `Java`  
 - 🔍 **Interested in:** Backend development, APIs, automation  
 - 🤝 **Looking to collaborate on:** Exciting Python projects  
 - 🛠️ **Tools I use:**  
